@@ -1,0 +1,34 @@
+<personas>
+    <persona>
+        <nombre>Juan </nombre>
+        <apellido>Gonzalez </apellido>
+        <rut>12345678-9 </rut>
+        <tiempo>6 meses</tiempo>
+        <monto>1800000</monto>
+        <direccion>Los Copihues 1025</direccion>
+    </persona>
+    <persona>
+        <nombre> Maria</nombre>
+        <apellido>Perez </apellido>
+        <rut>98765432-1</rut>
+        <tiempo>2 años</tiempo>
+        <monto>4800000</monto>
+        <direccion>Bandera 55</direccion>
+    </persona>
+    <persona>
+        <nombre>Jorge</nombre>
+        <apellido>Peñaloza</apellido>
+        <rut>13834570-1</rut>
+        <tiempo>15 dias</tiempo>
+        <monto>300000</monto>
+        <direccion>Maria elena  560</direccion>
+    </persona>
+    <persona>
+        <nombre>Anais</nombre>
+        <apellido>Jorquera</apellido>
+        <rut>15864580-7</rut>
+        <tiempo>3 meses</tiempo>
+        <monto>1200000</monto>
+        <direccion>Santa Isabel 5623</direccion>
+    </persona>
+</personas>
